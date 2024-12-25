@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamalnaserhabibi
 - 👀 I’m interested in Programming and web development!
-- 🌱 I’m currently learning about programming languages.
-- 💞️ I’m looking to collaborate on any web application and desktop application.
+- 🌱 I’m currently working and learning about programming languages.
+- 💞️ I’m looking to collaborate on any web application and backend and frontend.
 - 📫 Contact me via: jamalnaser.tech@gmail.com.
